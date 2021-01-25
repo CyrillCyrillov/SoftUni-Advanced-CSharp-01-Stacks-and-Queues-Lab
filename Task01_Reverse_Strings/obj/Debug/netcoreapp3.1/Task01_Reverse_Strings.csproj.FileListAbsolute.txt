@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\bin\Debug\netcoreapp3.1\Task01_Reverse_Strings.exe
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\bin\Debug\netcoreapp3.1\Task01_Reverse_Strings.deps.json
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\bin\Debug\netcoreapp3.1\Task01_Reverse_Strings.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\bin\Debug\netcoreapp3.1\Task01_Reverse_Strings.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\bin\Debug\netcoreapp3.1\Task01_Reverse_Strings.dll
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\bin\Debug\netcoreapp3.1\Task01_Reverse_Strings.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\obj\Debug\netcoreapp3.1\Task01_Reverse_Strings.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\obj\Debug\netcoreapp3.1\Task01_Reverse_Strings.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\obj\Debug\netcoreapp3.1\Task01_Reverse_Strings.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\obj\Debug\netcoreapp3.1\Task01_Reverse_Strings.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\obj\Debug\netcoreapp3.1\Task01_Reverse_Strings.dll
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\obj\Debug\netcoreapp3.1\Task01_Reverse_Strings.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\01_Lab_Stacks_and_Queues\obj\Debug\netcoreapp3.1\Task01_Reverse_Strings.genruntimeconfig.cache
