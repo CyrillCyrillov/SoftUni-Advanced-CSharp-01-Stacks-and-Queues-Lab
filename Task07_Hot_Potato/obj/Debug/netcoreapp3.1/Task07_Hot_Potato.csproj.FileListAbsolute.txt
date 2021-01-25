@@ -1,0 +1,13 @@
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\bin\Debug\netcoreapp3.1\Task07_Hot_Potato.exe
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\bin\Debug\netcoreapp3.1\Task07_Hot_Potato.deps.json
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\bin\Debug\netcoreapp3.1\Task07_Hot_Potato.runtimeconfig.json
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\bin\Debug\netcoreapp3.1\Task07_Hot_Potato.runtimeconfig.dev.json
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\bin\Debug\netcoreapp3.1\Task07_Hot_Potato.dll
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\bin\Debug\netcoreapp3.1\Task07_Hot_Potato.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\obj\Debug\netcoreapp3.1\Task07_Hot_Potato.csprojAssemblyReference.cache
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\obj\Debug\netcoreapp3.1\Task07_Hot_Potato.AssemblyInfoInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\obj\Debug\netcoreapp3.1\Task07_Hot_Potato.AssemblyInfo.cs
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\obj\Debug\netcoreapp3.1\Task07_Hot_Potato.csproj.CoreCompileInputs.cache
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\obj\Debug\netcoreapp3.1\Task07_Hot_Potato.dll
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\obj\Debug\netcoreapp3.1\Task07_Hot_Potato.pdb
+C:\Users\Kiril\Advanced_CSharp\01_Lab_Stacks_and_Queues\Task07_Hot_Potato\obj\Debug\netcoreapp3.1\Task07_Hot_Potato.genruntimeconfig.cache
